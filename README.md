@@ -1,6 +1,6 @@
 <img src="https://github.com/sdsna/2018GlobalIndex/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
-# Data Visualization for SDG INDEX AND DASHBOARDS REPORT  
+# Data Visualization for the Sustainable Development Report of the US 2018
 
 ## Project Description
 This repository stores the code needed to localize or customize the SDSN data visualization for the Sustainable Development Report of the US 2018. 
