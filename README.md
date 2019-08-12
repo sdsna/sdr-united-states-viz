@@ -1,39 +1,33 @@
 <img src="https://github.com/sdsna/2018GlobalIndex/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
-# US CITIES SDG INDEX AND DASHBOARDS REPORT 2019  
-## 2019 US Cites Sustainable Development Report 
-US Cty-level data from 2019 Index and Dashboards
+# Data Visualization for SDG INDEX AND DASHBOARDS REPORT  
 
-## Report Description
-
-
-For more information on this report, see www.sustainabledevelopment.report/2019USCities
-
-For data from our other projects, see https://github.com/sdsna.
+## Project Description
+This repository stores the code needed to localize or customize the SDSN data visualization for the Sustainable Development Report of the US 2018. For more information on this report, see [here] (https://www.sustainabledevelopment.report/reports/sustainable-development-report-of-the-united-states-2018/).
 
 ## Data
 
-The data is distributed 2 files, 1) data in Excel and Stata format and 2) a codebook in Excel format. 
+For data from this project, see https://github.com/sdsna/2018StateIndex.
+For data from our other projects, see https://github.com/sdsna.
 
-1. Cross-sectional data from most recent year, US Cities Index Results 2019, available in [Excel](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.xlsx) and [Stata](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.dta) format.
-2. A [codebook](https://github.com/sdsna/2019USCitiesIndex/blob/master/Codebook.xlsx) containing variable source and metatadata
+## Terms of Use
 
-## Methodology
-
-The [Methodology](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesMethodology.pdf) from the 2019 US Cities Index. 
+In addition to the conditions of the license below, SDSN requires the following Terms of Use:
+1. Credit both PICA Publishing and SDSN USA with the design and development of the backend
+2. State that neither SDSN or the UN endorses nor has reviewed the data or methodology and that the results are the organizations own
+3. Provide relevant links to SDSN USA (usa@unsdsn.org) to where and how the data backend is being used
+4. By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna)
 
 ## License
 
-By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna).
+Data Visualization for Sustainable Development Report of the US 2018
+Copyright (C) 2018  SDSN USA and PICA Publishing
 
-## Colophon
-Authors: Alainna Lynch, Anna LoPresti, and Caroline Fox (SDSN USA)
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
-Publication design and layout by [Stislow Design](https://www.stislow.com/).
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details, also available here https://www.gnu.org/licenses/.
 
 ## Endmatter
-
-Please notify us about any publications that result from the use of the SDG Index and Dashboards Report and data by sending your bibliographic citation to usa@unsdsn.org and including information on your publication.
 
 If you have questions, please contact SDSN at <usa@unsdsn.org>.
 
