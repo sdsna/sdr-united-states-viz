@@ -18,7 +18,7 @@ In addition to the conditions of the license below, SDSN requires the following 
 1. Credit both PICA Publishing and SDSN USA with the design and development of the backend
 2. State that neither SDSN or the UN endorses nor has reviewed the data or methodology and that the results are the organizations own
 3. Provide relevant links to SDSN USA (usa@unsdsn.org) to where and how the data backend is being used
-4. Adhere to all of the terms specified in this [license](https://github.com/sdsna/sdr-united-states-viz/GNU GPLv3 License.rtf)
+4. Adhere to all of the terms specified in this [license](https://github.com/sdsna/sdr-united-states-viz/GNUGPLv3License.rtf)
 
 ## License
 
